@@ -6,7 +6,7 @@
  */
 
 var APP_NAME = 'Payroll Support';
-var APP_VERSION = 'v24 web';
+var APP_VERSION = 'v26 web';
 var MP_SEED_VERSION = '2026-11-05'; // latest APPROVED MANPOWER file built into the app
 var SHEET_USERS = 'Users';
 var SHEET_COMPANIES = 'Companies';
